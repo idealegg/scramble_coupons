@@ -1,0 +1,16 @@
+tess*
+01.png
+Training/bak
+Training/font_properties
+font_properties
+Training/*.inttemp
+Training/*_413
+Training/*.tr
+Training/*.normproto
+Training/*.pffmtable
+Training/*.shapetable
+Training/*.traineddata
+Training/*.unicharset
+Training/*.log
+res/old2
+res/processed
